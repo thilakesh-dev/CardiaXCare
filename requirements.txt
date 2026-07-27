@@ -1,0 +1,26 @@
+numpy==2.0.2
+
+pandas==2.2.3
+
+matplotlib==3.10.3
+
+scipy==1.15.3
+
+pyserial==3.5
+
+scikit-learn==1.6.1
+
+joblib==1.5.1
+| Library      | Purpose                  |
+| ------------ | ------------------------ |
+| numpy        | Numerical calculations   |
+| pandas       | Reading ECG datasets     |
+| matplotlib   | Live ECG plotting        |
+| scipy        | Signal filtering         |
+| pyserial     | Read Arduino Serial Port |
+| scikit-learn | Machine Learning         |
+| joblib       | Save and Load AI Model   |
+
+
+
+
